@@ -1,0 +1,15 @@
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.exe
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.deps.json
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.runtimeconfig.json
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.dll
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.pdb
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.dll
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\refint\Example009_IntroArray.dll
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.pdb
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.genruntimeconfig.cache
+D:\GeekBrains\Урок 1. Введение\Examples\Example009_IntroArray\obj\Debug\net6.0\ref\Example009_IntroArray.dll
