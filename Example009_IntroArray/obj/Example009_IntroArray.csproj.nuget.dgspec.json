@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
         "projectName": "Example009_IntroArray",
-        "projectPath": "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example009_IntroArray\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Examples\\Example009_IntroArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
