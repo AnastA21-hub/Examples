@@ -13,3 +13,18 @@ D:\GeekBrains\Урок 1. Введение\Examples\Example008_IntroMethod\obj\D
 D:\GeekBrains\Урок 1. Введение\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.pdb
 D:\GeekBrains\Урок 1. Введение\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.genruntimeconfig.cache
 D:\GeekBrains\Урок 1. Введение\Examples\Example008_IntroMethod\obj\Debug\net6.0\ref\Example008_IntroMethod.dll
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.exe
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.deps.json
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.runtimeconfig.json
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.dll
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.pdb
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.dll
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\refint\Example008_IntroMethod.dll
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.pdb
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Examples\Example008_IntroMethod\obj\Debug\net6.0\ref\Example008_IntroMethod.dll

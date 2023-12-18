@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
         "projectName": "Example008_IntroMethod",
-        "projectPath": "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\Урок 1. Введение\\Examples\\Example008_IntroMethod\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Examples\\Example008_IntroMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
